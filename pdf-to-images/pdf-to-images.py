@@ -1,7 +1,6 @@
 import os
 import sys
 
-# pip3 install Pillow
 from pdf2image import convert_from_path
 
 def main(pdf_path, output_dir):

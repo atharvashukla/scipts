@@ -1,5 +1,7 @@
 import os
 import sys
+
+# pip3 install Pillow
 from PIL import Image
 
 def resize_images(scale_factor, input_dir, output_dir):
